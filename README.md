@@ -7,7 +7,7 @@
 
 3. [How to Connect Repository with GitHub or Bitbucket.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/0.%20Start/2.%20Git/1.%20repository.md)
 
-4. [How to use README.md])(https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/0.%20Start/2.%20Git/2.%20readme.md)
+4. [How to use README.md](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/0.%20Start/2.%20Git/2.%20readme.md)
 
 5. 
 
