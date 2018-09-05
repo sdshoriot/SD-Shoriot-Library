@@ -16,6 +16,8 @@
 
 7. [Python Intro.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/2.%20Python%20Intro.md)
 
+# Python
+
 8. [Variable & Data Types.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/3.%20Variables%20%26%20Data%20Types.md)
 
 
