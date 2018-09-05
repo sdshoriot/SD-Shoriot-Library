@@ -1,4 +1,4 @@
-# SUMMARY Of SD_Shoriot_Library By [SD Shoriot](https://www.facebook.com/shoriot) On 13 Aug 2018
+# SD_Shoriot_Library Created By [SD Shoriot](https://www.facebook.com/shoriot) On 13 Aug 2018. Totall SUMMARY Of SD_Shoriot_Library.
 
 
 
