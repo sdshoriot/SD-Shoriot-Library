@@ -1,4 +1,4 @@
-# This Repo Created By [SD Shoriot](https://www.facebook.com/shoriot) On 13 Aug 2018
+# This Repo is Created By [SD Shoriot](https://www.facebook.com/shoriot) On 13 Aug 2018
 
 
 
