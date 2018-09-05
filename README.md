@@ -16,13 +16,14 @@
 
 7. [Python Intro.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/2.%20Python%20Intro.md)
 
-# 1. Python
+# 1. Python Start By [SD Shoriot](https://www.facebook.com/shoriot) On 5 Sep 2018
 
 8. [Variable & Data Types.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/3.%20Variables%20%26%20Data%20Types.md)
 
 
-# 2. Django
-# 3. JavaScript
+# 2. Django Start By [SD Shoriot](https://www.facebook.com/shoriot) On
+
+# 3. JavaScript Start By [SD Shoriot](https://www.facebook.com/shoriot) On
 > উপরোক্ত বিষয়ে যদি আপনার কোন প্রশ্ন থাকে, তাহলে আমাকে ইনবক্স করুন প্লিজ,,
 
 * আমার ফেসবুক আইডি :  [SD Shoriot](https://www.facebook.com/shoriot)
