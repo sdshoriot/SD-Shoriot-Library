@@ -1,5 +1,5 @@
 # *This Repository is Created By [SD Shoriot](https://www.facebook.com/shoriot) On 15 Aug 2018*
----
+
 
 1. [How to Start New Project.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/0.%20Start/1.%20Project/1.%20start%20new%20project.md)
 
@@ -14,10 +14,15 @@
 6. [Python Bangla Books, YouTube Videos & Blogs.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/0.%20Book/2.%20Bangla%20Books%2CVideos%20%26%20Blogs.md)
 
 7. [Python Intro.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/2.%20Python%20Intro.md)
+---
+
 
 # *1. Python Start Writing By [SD Shoriot](https://www.facebook.com/shoriot) On 5 Sep 2018*
 
 8. [Variable & Data Types.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/3.%20Variables%20%26%20Data%20Types.md)
+
+
+---
 
 
 # *2. Django Start Writing By [SD Shoriot](https://www.facebook.com/shoriot) On*
