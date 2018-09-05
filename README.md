@@ -1,9 +1,6 @@
 # *This Repository is Created By [SD Shoriot](https://www.facebook.com/shoriot) On 15 Aug 2018*
 
 
-# *0. Start Writing By [SD Shoriot](https://www.facebook.com/shoriot) On 16 Aug 2018*
-
-
 1. [How to Start New Project.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/0.%20Start/1.%20Project/1.%20start%20new%20project.md)
 
 2. [How to Start Old Project.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/0.%20Start/1.%20Project/2.%20start%20old%20project.md)
