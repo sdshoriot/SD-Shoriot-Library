@@ -24,6 +24,8 @@
 
 9. [Python Operators.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/4.%20Python%20Operators.md)
 
+10. [Python Comments.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/5.%20Python%20Comments.md)
+
 
 ---
 
