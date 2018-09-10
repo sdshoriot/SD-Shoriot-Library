@@ -19,7 +19,7 @@
 
 # *1. Python Start Writing By [SD Shoriot](https://www.facebook.com/shoriot) On 5 Sep 2018*
 
-1. [Variable & Data Types.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/3.%20Variables%20%26%20Data%20Types.md)
+1. [Python Variable & Data Types.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/3.%20Variables%20%26%20Data%20Types.md)
 
 
 2. [Python Operators.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/4.%20Python%20Operators.md)
