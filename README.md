@@ -19,15 +19,15 @@
 
 # *1. Python Start Writing By [SD Shoriot](https://www.facebook.com/shoriot) On 5 Sep 2018*
 
-8. [Variable & Data Types.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/3.%20Variables%20%26%20Data%20Types.md)
+1. [Variable & Data Types.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/3.%20Variables%20%26%20Data%20Types.md)
 
 
-9. [Python Operators.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/4.%20Python%20Operators.md)
+2. [Python Operators.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/4.%20Python%20Operators.md)
 
-10. [Python Comments.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/5.%20Python%20Comments.md)
+3. [Python Comments.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/5.%20Python%20Comments.md)
 
 
-11. [Python Strings.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/6.%20Python%20Strings.md)
+4. [Python Strings.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/6.%20Python%20Strings.md)
 
 
 ---
