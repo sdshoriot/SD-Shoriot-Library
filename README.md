@@ -27,6 +27,9 @@
 10. [Python Comments.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/5.%20Python%20Comments.md)
 
 
+11. [Python Strings.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/6.%20Python%20Strings.md)
+
+
 ---
 
 
