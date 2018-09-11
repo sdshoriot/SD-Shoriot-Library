@@ -30,7 +30,7 @@
 4. [Python Strings.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/6.%20Python%20Strings.md)
 
 
-5. There are [Four built-in Data Structures in Python](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/7.%20Four%20built-in%20Data%20Structures%20in%20Python.md) *List  *Tuple   *Dictionary &	 *Set.
+5. There're [Four built-in Data Structures in Python](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/7.%20Four%20built-in%20Data%20Structures%20in%20Python.md) *List  *Tuple   *Dictionary &	 *Set.
 
 
 ---
