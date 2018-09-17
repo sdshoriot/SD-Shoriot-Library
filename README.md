@@ -30,7 +30,7 @@
 4. [Python's String Manipulation.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/6.%20Python%20Strings.md)
 
 
-5. [There're Four Built-in Data Structures in Python. List, Tuple, Dictionary & Set.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/7.%20Four%20built-in%20Data%20Structures%20in%20Python.md) 
+5. [There're Four Built-in Data Structures in Python (List, Tuple, Dictionary & Set).](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/7.%20Four%20built-in%20Data%20Structures%20in%20Python.md) 
 
 
 
