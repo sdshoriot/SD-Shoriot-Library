@@ -34,7 +34,10 @@
 
 
 
-6. [Python's Conditional Logic.]()if, if elif, if elif else
+6. [Python's Conditional Logic](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/8.%20Python's%20Conditional%20Logic.md)*if, *if elif, ***if elif else.
+
+
+
 ---
 
 
@@ -49,4 +52,4 @@
 
 > উপরোক্ত বিষয়ে যদি আপনার কোন প্রশ্ন থাকে, তাহলে আমাকে ইনবক্স করুন প্লিজ,,
 
-* আমার ফেসবুক আইডি :  **[SD Shoriot](https://www.facebook.com/shoriot)**
+* My Facebook ID :  **[SD Shoriot](https://www.facebook.com/shoriot)**
