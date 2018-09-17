@@ -19,20 +19,22 @@
 
 # *1. Python Start Writing By [SD Shoriot](https://www.facebook.com/shoriot) On 5 Sep 2018*
 
-1. [Python Variable & Data Types.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/3.%20Variables%20%26%20Data%20Types.md)
+1. [Python's Variable & Data Types.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/3.%20Variables%20%26%20Data%20Types.md)
 
 
-2. [Python Operators.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/4.%20Python%20Operators.md)
+2. [Python's Operators.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/4.%20Python%20Operators.md)
 
-3. [Python Comments.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/5.%20Python%20Comments.md)
+3. [Python's Comments.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/5.%20Python%20Comments.md)
 
 
-4. [Python String Manipulation.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/6.%20Python%20Strings.md)
+4. [Python's String Manipulation.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/6.%20Python%20Strings.md)
 
 
 5. There're [Four Built-in Data Structures in Python](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/7.%20Four%20built-in%20Data%20Structures%20in%20Python.md) *List  *Tuple   *Dictionary &	 *Set.
 
 
+
+6. [Python's Conditional Logic.]()if, if elif, if elif else
 ---
 
 
