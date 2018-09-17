@@ -30,12 +30,11 @@
 4. [Python's String Manipulation.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/6.%20Python%20Strings.md)
 
 
-5. There're [Four Built-in Data Structures in Python](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/7.%20Four%20built-in%20Data%20Structures%20in%20Python.md) *List  *Tuple   *Dictionary &	 *Set.
+5. [There're Four Built-in Data Structures in Python. List, Tuple, Dictionary & Set.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/7.%20Four%20built-in%20Data%20Structures%20in%20Python.md) 
 
 
 
-6. [Python's Conditional Logic](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/8.%20Python's%20Conditional%20Logic.md)*if, *if elif, ***if elif else.
-
+6. [Python's Conditional Logic (if, if elif, if elif else).](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/8.%20Python's%20Conditional%20Logic.md)
 
 
 ---
