@@ -3,22 +3,21 @@
 0. [Running I'm using...24](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/0.%20Start/0.%20Running%20I'm%20using....md)
 
 
-0.0 Varieties item in one.
+1. Varieties item in one.
 
+2. [How to Start New Project?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/0.%20Start/1.%20Project/1.%20start%20new%20project.md)
 
-1. [How to Start New Project?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/0.%20Start/1.%20Project/1.%20start%20new%20project.md)
+3. [How to Start Old Project?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/0.%20Start/1.%20Project/2.%20start%20old%20project.md)
 
-2. [How to Start Old Project?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/0.%20Start/1.%20Project/2.%20start%20old%20project.md)
+4. [How to Connect Repository with GitHub or Bitbucket?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/0.%20Start/2.%20Git/1.%20repository.md)
 
-3. [How to Connect Repository with GitHub or Bitbucket?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/0.%20Start/2.%20Git/1.%20repository.md)
+5. [How to use README.md?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/0.%20Start/2.%20Git/2.%20readme.md)
 
-4. [How to use README.md?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/0.%20Start/2.%20Git/2.%20readme.md)
+6. [Python's English Books, YouTube Videos & Blogs.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/0.%20Book/1.%20English%20Book%2CVideos%20%26%20Blogs.md)
 
-5. [Python's English Books, YouTube Videos & Blogs.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/0.%20Book/1.%20English%20Book%2CVideos%20%26%20Blogs.md)
+7. [Python's Bangla Books, YouTube Videos & Blogs.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/0.%20Book/2.%20Bangla%20Books%2CVideos%20%26%20Blogs.md)
 
-6. [Python's Bangla Books, YouTube Videos & Blogs.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/0.%20Book/2.%20Bangla%20Books%2CVideos%20%26%20Blogs.md)
-
-7. [Python Intro.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/2.%20Python%20Intro.md)
+8. [Python Intro.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/2.%20Python%20Intro.md)
 ---
 
 
