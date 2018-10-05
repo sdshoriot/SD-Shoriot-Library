@@ -3,7 +3,7 @@
 0. [Running I'm using...28](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/0.%20Start/0.%20Running%20I'm%20using....md)
 
 
-1. Varieties item in one.
+1. [Varieties item in one.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/0.%20Start/1.%20Varieties%20item%20in%20one.md)
 
 2. [How to Start New Project?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/0.%20Start/1.%20Project/1.%20start%20new%20project.md)
 
