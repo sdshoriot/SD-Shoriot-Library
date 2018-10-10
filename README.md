@@ -52,6 +52,14 @@
 
 ### 1. [How the documentation is organized]()
 
+1. [Tutorials]()
+
+2. [Topic guides]()
+
+3. [Reference guides]()
+
+4. [How-to guides]()
+
 ### 2. [First steps]()
 
 ### 3. [The model layer]()
