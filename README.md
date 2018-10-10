@@ -62,14 +62,23 @@
 
 ### 6. [Forms]()
 
-### 7.
-### 8.
-### 9.
-### 10.
-### 11.
-### 12.
-### 13.
-### 14.      
+### 7. [The development process]()
+
+### 8. [The admin]()
+
+### 9. [Security]()
+
+### 10. [Internationalization and localization]()
+
+### 11. [Performance and optimization]()
+
+### 12. [Geographic framework]()
+
+### 13. [Common Web application tools]()
+
+### 14. [Other core functionalities]()
+
+### 15. [The Django open-source project]()    
 
 
 ---
