@@ -47,7 +47,7 @@
 # *2. Django Start Writing by [SD Shoriot](https://www.facebook.com/shoriot) On 10 Oct 2018*
 
 
-### 0. [Django documentation](https://docs.djangoproject.com/en/2.1/) Everything you need to know about Django.
+### [Django documentation](https://docs.djangoproject.com/en/2.1/) Everything you need to know about Django.
  
 
 ### 1. [How the documentation is organized]()
