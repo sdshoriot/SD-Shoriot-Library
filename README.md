@@ -50,7 +50,20 @@
 ### 0. [Django documentation](https://docs.djangoproject.com/en/2.1/) Everything you need to know about Django.
  
 
-1. 
+### 1. [How the documentation is organized]()
+### 2.
+### 3.
+### 4.
+### 5.
+### 6.
+### 7.
+### 8.
+### 9.
+### 10.
+### 11.
+### 12.
+### 13.
+### 14.      
 
 
 ---
