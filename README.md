@@ -44,7 +44,7 @@
 ---
 
 
-# *2. Django Start Writing by [SD Shoriot](https://www.facebook.com/shoriot) On*
+# *2. Django Start Writing by [SD Shoriot](https://www.facebook.com/shoriot) On 10 Oct 2018*
 
 
 ---
