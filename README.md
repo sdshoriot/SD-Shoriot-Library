@@ -49,6 +49,13 @@
 
 ### [Django documentation](https://docs.djangoproject.com/en/2.1/) Everything you need to know about Django.
  
+1. [How to dynamic image & crop image in Django?]()
+
+2. [How to dynamic Social media link in Django?]()
+
+3. [How to add TinyMCE Text-Editor in (admin_page) Django?]()
+
+4. [How to save a post in Drafts & only show all published post in Django?]()
 
 ---
 
