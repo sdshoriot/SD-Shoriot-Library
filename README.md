@@ -50,47 +50,6 @@
 ### [Django documentation](https://docs.djangoproject.com/en/2.1/) Everything you need to know about Django.
  
 
-### 1. How the documentation is organized
-
-1. [Tutorials]()
-
-2. [Topic guides]()
-
-3. [Reference guides]()
-
-4. [How-to guides]()
-
-### 2. First steps
-
-Are you new to Django or to programming? This is the place to start!
-
-### 3. The model layer
-
-### 4. The view layer
-
-### 5. The template layer
-
-### 6. Forms
-
-### 7. The development process
-
-### 8. The admin
-
-### 9. Security
-
-### 10. Internationalization and localization
-
-### 11. Performance and optimization
-
-### 12. Geographic framework
-
-### 13. Common Web application tools
-
-### 14. Other core functionalities
-
-### 15. The Django open-source project    
-
-
 ---
 
 
