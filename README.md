@@ -59,7 +59,7 @@
 
 5. [Deploy a Django App to Python Anywhere.]()
 
-6. [Comment symtem in Django.]()
+6. [Comment system in Django.]()
 
 ---
 
