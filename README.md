@@ -1,4 +1,4 @@
-# *This Repository is Created by [SD Shoriot](https://www.facebook.com/shoriot) On 15 Aug 2018*
+# *This Repository is Created by [SD Shoriot](https://www.facebook.com/shoriot) On Aug 15, 2018*
 
 0. [Running I'm using...28](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/0.%20Start/0.%20Running%20I'm%20using....md)
 
@@ -21,7 +21,7 @@
 ---
 
 
-# *1. Python Start Writing by [SD Shoriot](https://www.facebook.com/shoriot) On 5 Sep 2018*
+# *1. Python Start Writing by [SD Shoriot](https://www.facebook.com/shoriot) On Sep 5, 2018*
 
 1. [Python's Variable & Data Types.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/3.%20Variables%20%26%20Data%20Types.md)
 
@@ -44,7 +44,7 @@
 ---
 
 
-# *2. Django Start Writing by [SD Shoriot](https://www.facebook.com/shoriot) On 10 Oct 2018*
+# *2. Django Start Writing by [SD Shoriot](https://www.facebook.com/shoriot) On Oct 10, 2018*
 
 
 ### [Django documentation](https://docs.djangoproject.com/en/2.1/) Everything you need to know about Django.
