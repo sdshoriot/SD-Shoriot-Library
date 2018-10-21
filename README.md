@@ -57,6 +57,10 @@
 
 4. [How to save a post in Drafts & only show all published post in Django?]()
 
+5. [Deploy a Django App to Python Anywhere.]()
+
+6. [Comment symtem in Django.]()
+
 ---
 
 
