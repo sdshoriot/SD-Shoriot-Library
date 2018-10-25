@@ -49,7 +49,7 @@
 
 ### [Django documentation](https://docs.djangoproject.com/en/2.1/) Everything you need to know about Django.
 
-1. [How to add static files (img, js, css) in Django?]()
+1. [How to add static files (img, js, css) in Django?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/2.%20Django/1.%20How%20to%20add%20static%20files%20(img%2C%20Js%2C%20CSS)%20in%20Django%3F.md)
  
 2. [How to dynamic & crop image in Django?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/2.%20Django/1.%20How%20to%20dynamic%20image%20%26%20crop%20image%20in%20Django%3F.md)
 
