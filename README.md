@@ -48,18 +48,20 @@
 
 
 ### [Django documentation](https://docs.djangoproject.com/en/2.1/) Everything you need to know about Django.
+
+1. [How to add static files (img, Js, CSS) in Django?]()
  
-1. [How to dynamic & crop image in Django?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/2.%20Django/1.%20How%20to%20dynamic%20image%20%26%20crop%20image%20in%20Django%3F.md)
+2. [How to dynamic & crop image in Django?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/2.%20Django/1.%20How%20to%20dynamic%20image%20%26%20crop%20image%20in%20Django%3F.md)
 
-2. [How to dynamic Social media link in Django?]()
+3. [How to dynamic Social media link in Django?]()
 
-3. [How to add TinyMCE Text-Editor in (admin_page) Django?]()
+4. [How to add TinyMCE Text-Editor in (admin_page) Django?]()
 
-4. [How to save a post in Drafts & only show all published post in Django?]()
+5. [How to save a post in Drafts & only show all published post in Django?]()
 
-5. [Deploy Your Custom Django Website on PythonAnywhere.]()
+6. [Deploy Your Custom Django Website on PythonAnywhere.]()
 
-6. [Comment system in Django.]()
+7. [Comment system in Django.]()
 
 ---
 
