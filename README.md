@@ -67,8 +67,7 @@
 
 
 # *3. JavaScript Start Writing by [SD Shoriot](https://www.facebook.com/shoriot) On*
+
 ---
 
-> উপরোক্ত বিষয়ে যদি আপনার কোন প্রশ্ন থাকে, তাহলে আমাকে ইনবক্স করুন প্লিজ,,
-
-* My Facebook ID :  **[SD Shoriot](https://www.facebook.com/shoriot)**
+> Please inbox me (**[SD Shoriot](https://www.facebook.com/shoriot)**) if you've any questions. 
