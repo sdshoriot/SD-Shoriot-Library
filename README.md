@@ -53,7 +53,7 @@
  
 2. [How to dynamic & crop image in Django?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/2.%20Django/2.%20How%20to%20dynamic%20image%20%26%20crop%20image%20in%20Django%3F.md)
 
-3. [How to Deploy Your Django Website on PythonAnywhere for free?]()
+3. [How to Deploy Your Django Website on PythonAnywhere for free?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/2.%20Django/3.%20How%20to%20Deploy%20Your%20Django%20Website%20on%20PythonAnywhere%20for%20free%3F.md)
 
 4. [How to dynamic Social media link in Django?]()
 
