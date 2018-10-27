@@ -59,10 +59,6 @@
 
 5. [How to add TinyMCE Text-Editor in (admin_page) Django?]()
 
-6. [How to save a post in Drafts & only show all published post in Django?]()
-
-7. [Comment system in Django.]()
-
 ---
 
 
