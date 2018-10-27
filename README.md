@@ -55,7 +55,7 @@
 
 3. [How to Deploy Your Django Website on PythonAnywhere for free?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/2.%20Django/3.%20How%20to%20Deploy%20Your%20Django%20Website%20on%20PythonAnywhere%20for%20free%3F.md)
 
-4. [How to dynamic Social media link in Django?]()
+4. [How to dynamic Social media link in Django?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/2.%20Django/4.%20How%20to%20dynamic%20Social%20media%20link%20in%20Django%3F.md)
 
 5. [How to add TinyMCE Text-Editor in (admin_page) Django?]()
 
