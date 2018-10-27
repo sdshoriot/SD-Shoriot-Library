@@ -57,7 +57,7 @@
 
 4. [How to dynamic Social media link in Django?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/2.%20Django/4.%20How%20to%20dynamic%20Social%20media%20link%20in%20Django%3F.md)
 
-5. [How to add TinyMCE Text-Editor in (admin_page) Django?]()
+5. [How to add TinyMCE Text-Editor in (admin_page) Django?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/2.%20Django/5.%20How%20to%20add%20TinyMCE%20Text-Editor%20in%20(admin_page)%20Django%3F.md)
 
 ---
 
