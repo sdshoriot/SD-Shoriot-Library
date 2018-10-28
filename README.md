@@ -50,7 +50,7 @@
 ### [Django documentation](https://docs.djangoproject.com/en/2.1/) Everything you need to know about Django.
 
 
-0. [Django varieties item in one.]()
+0. [Django varieties item in one.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/2.%20Django/0.%20Django%20Varieties%20item%20in%20one.md)
 
 1. [How to add static files (img, js, css) in Django?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/2.%20Django/1.%20How%20to%20add%20static%20files%20(img%2C%20Js%2C%20CSS)%20in%20Django%3F.md)
  
