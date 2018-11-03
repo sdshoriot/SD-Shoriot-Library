@@ -62,6 +62,8 @@
 
 5. [How to add TinyMCE Text-Editor in (admin_page) Django?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/2.%20Django/5.%20How%20to%20add%20TinyMCE%20Text-Editor%20in%20(admin_page)%20Django%3F.md)
 
+6. [How to add CKEditor in Admin Panel of Django?.md]()
+
 ---
 
 
