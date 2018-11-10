@@ -64,7 +64,7 @@
 
 6. [How to add CKEditor in Admin Panel of Django?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/2.%20Django/6.%20How%20to%20add%20CKEditor%20in%20Admin%20Panel%20of%20Django%3F.md)
 
-7. [How to save post in Drafts?]()
+7. [How to save post in Drafts?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/2.%20Django/7.%20How%20to%20save%20post%20in%20Drafts%3F.md)
 
 8. [How can I show the latest 4 posts in Django?]()
 
