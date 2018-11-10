@@ -64,6 +64,11 @@
 
 6. [How to add CKEditor in Admin Panel of Django?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/2.%20Django/6.%20How%20to%20add%20CKEditor%20in%20Admin%20Panel%20of%20Django%3F.md)
 
+7. [How can I show the latest 4 posts in Django?]()
+
+8. [How to make next and previous post button on my blog in Django?]()
+
+9. [How to Add DISQUS Comment System to your blog or website in Django?]()
 ---
 
 
