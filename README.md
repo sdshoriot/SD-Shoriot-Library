@@ -70,7 +70,7 @@
 
 9. [How to make next and previous post button on my blog in Django?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/2.%20Django/9.%20How%20to%20make%20next%20and%20previous%20post%20button%20on%20my%20blog%20in%20Django%3F.md)
 
-10. [How to Add DISQUS Comment System to your blog or website in Django?]()
+10. [How to Add DISQUS Comment System to your blog or website?]()
 ---
 
 
