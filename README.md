@@ -1,6 +1,6 @@
 # *This Repository is Created by [SD Shoriot](https://www.facebook.com/shoriot) On Aug 15, 2018*
 
-0. [Running I'm using...35](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/0.%20Start/0.%20Running%20I'm%20using....md)
+0. [I'm using...35](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/0.%20Start/0.%20Running%20I'm%20using....md)
 
 
 1. [Varieties item in one.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/0.%20Start/1.%20Varieties%20item%20in%20one.md)
@@ -71,10 +71,6 @@
 9. [How to make next and previous post button on my blog in Django?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/2.%20Django/9.%20How%20to%20make%20next%20and%20previous%20post%20button%20on%20my%20blog%20in%20Django%3F.md)
 
 10. [How to Add DISQUS Comment System to your blog or website?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/2.%20Django/10.%20How%20to%20Add%20DISQUS%20Comment%20System%20to%20your%20blog%20or%20website%20in%20Django%3F.md)
----
-
-
-# *3. JavaScript Start Writing by [SD Shoriot](https://www.facebook.com/shoriot) On*
 
 ---
 
