@@ -21,7 +21,7 @@
 ---
 
 
-# 1. Python start writing by me ([SD Shoriot])(https://www.facebook.com/shoriot) on Sep 5, 2018
+# 1. Python start writing by me ([SD Shoriot](https://www.facebook.com/shoriot)) on Sep 5, 2018
 
 1. [Python's Variable & Data Types.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/3.%20Variables%20%26%20Data%20Types.md)
 
@@ -44,7 +44,7 @@
 ---
 
 
-# 2. Django start writing by me ([SD Shoriot])(https://www.facebook.com/shoriot) on Oct 10, 2018
+# 2. Django start writing by me ([SD Shoriot](https://www.facebook.com/shoriot)) on Oct 10, 2018
 
 
 ### [Django documentation](https://docs.djangoproject.com/en/2.1/) Everything you need to know about Django.
