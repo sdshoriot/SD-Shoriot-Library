@@ -1,4 +1,4 @@
-# This repo is created by me ([SD Shoriot])(https://www.facebook.com/shoriot) on Aug 15, 2018
+# This repo is created by me ([SD Shoriot](https://www.facebook.com/shoriot)) on Aug 15, 2018
 
 0. [I'm using...35](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/0.%20Start/0.%20Running%20I'm%20using....md)
 
