@@ -23,8 +23,9 @@
 
 # 1. Python start writing by [me](https://www.facebook.com/shoriot) on Sep. 5, 2018
 
-1. [Python's Variable & Data Types.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/3.%20Variables%20%26%20Data%20Types.md)
+0. [Python varieties item in one.]
 
+1. [Python's Variable & Data Types.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/3.%20Variables%20%26%20Data%20Types.md)
 
 2. [Python's Operators.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/4.%20Python%20Operators.md)
 
