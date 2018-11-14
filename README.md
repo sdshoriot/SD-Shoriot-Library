@@ -1,8 +1,5 @@
-# This repo is created by [me](https://www.facebook.com/shoriot) on Aug. 15, 2018
-
 # 1. Python start writing by [me](https://www.facebook.com/shoriot) on Sep. 5, 2018
 
-0. [Python varieties item in one.]
 
 1. [Python's Variable & Data Types.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/3.%20Variables%20%26%20Data%20Types.md)
 
@@ -17,7 +14,6 @@
 5. [There're Four Built-in Data Structures in Python (List, Tuple, Dictionary & Set).](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/7.%20Four%20built-in%20Data%20Structures%20in%20Python.md) 
 
 
-
 6. [Python's Conditional Logic (if, if elif, if elif else).](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/8.%20Python's%20Conditional%20Logic.md)
 
 
@@ -26,11 +22,6 @@
 
 # 2. Django start writing by [me](https://www.facebook.com/shoriot) on Oct. 10, 2018
 
-
-### [Django documentation](https://docs.djangoproject.com/en/2.1/) Everything you need to know about Django.
-
-
-0. [Django varieties item in one.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/2.%20Django/0.%20Django%20Varieties%20item%20in%20one.md)
 
 1. [How to add static files (img, js, css) in Django?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/2.%20Django/1.%20How%20to%20add%20static%20files%20(img%2C%20Js%2C%20CSS)%20in%20Django%3F.md)
  
