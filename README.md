@@ -1,5 +1,4 @@
-# 1. Python start writing by [me](https://www.facebook.com/shoriot) on Sep. 5, 2018
-
+# 1. Python 
 
 1. [Python's Variable & Data Types.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/3.%20Variables%20%26%20Data%20Types.md)
 
@@ -20,7 +19,7 @@
 ---
 
 
-# 2. Django start writing by [me](https://www.facebook.com/shoriot) on Oct. 10, 2018
+# 2. Django
 
 
 1. [How to add static files (img, js, css) in Django?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/2.%20Django/1.%20How%20to%20add%20static%20files%20(img%2C%20Js%2C%20CSS)%20in%20Django%3F.md)
