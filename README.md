@@ -1,6 +1,6 @@
 # 1. Python 
 
-1. [Python's Variable & Data Types.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/3.%20Variables%20%26%20Data%20Types.md)
+1. [Python's Variable & Data Types.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/1.%20Variables%20%26%20Data%20Types.md)
 
 2. [Python's Operators.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/4.%20Python%20Operators.md)
 
