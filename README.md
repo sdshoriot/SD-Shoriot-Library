@@ -50,6 +50,16 @@
 
 ---
 
+# 4. JavaScript
+
+
+---
+
+# 5. Vue.js
+
+---
+
+
 # Don't forget to see [varieties item in one.](https://github.com/sdshoriot/SD_Shoriot_Library/tree/master/Varieties%20item%20in%20one)
 
 
