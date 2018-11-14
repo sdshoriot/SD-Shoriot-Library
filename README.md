@@ -45,6 +45,11 @@
 
 ---
 
-### Please Don't forget to see [Varieties item in one.](https://github.com/sdshoriot/SD_Shoriot_Library/tree/master/Varieties%20item%20in%20one)
+
+# Please Don't forget to see [Varieties item in one.](https://github.com/sdshoriot/SD_Shoriot_Library/tree/master/Varieties%20item%20in%20one)
+
+
+---
+
 
 > Please inbox **[me](https://www.facebook.com/shoriot)** if you've any questions. 
