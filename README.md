@@ -42,6 +42,8 @@
 
 10. [How to Add DISQUS Comment System to your blog or website?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/2.%20Django/10.%20How%20to%20Add%20DISQUS%20Comment%20System%20to%20your%20blog%20or%20website%20in%20Django%3F.md)
 
+11. [How to Deploy your Django application on Heroku?]()
+
 ---
 
 
