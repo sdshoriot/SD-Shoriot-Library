@@ -75,4 +75,6 @@
 
 ---
 
+### [Varieties item in one.]()
+
 > Please inbox **[me](https://www.facebook.com/shoriot)** if you've any questions. 
