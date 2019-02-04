@@ -1,4 +1,4 @@
-###### `SD-Shoriot-Library` `created by` [me](https://www.facebook.com/shoriot) `on Aug 15, 2018`
+###### [SD-Shoriot-Library(https://github.com/sdshoriot/SD-Shoriot-Library) `created by` [me](https://www.facebook.com/shoriot) `on Aug 15, 2018`
 
 # 1. Python 
 
