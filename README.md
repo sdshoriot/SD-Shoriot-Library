@@ -1,4 +1,4 @@
-> #### [I]()'ve Created [SD-Shoriot-Library](https://github.com/sdshoriot/SD-Shoriot-Library) on Aug 15, 2018
+> #### [I](https://www.facebook.com/shoriot)'ve created [SD-Shoriot-Library](https://github.com/sdshoriot/SD-Shoriot-Library) repository on aug 15, 2018
 
 
 # 1. Python 
