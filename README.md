@@ -1,3 +1,12 @@
+# Table of contents
+	1. Python
+	2. Django
+	3. REST API With Django REST Framework (DRF)
+	4. Salesforce
+		* Salesforce Administrator
+		* Salesforec Developer
+	5. Git	
+
 # 1. Python 
 
 1. [Python's Variable & Data Types.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/1.%20Variables%20%26%20Data%20Types.md)
@@ -66,7 +75,7 @@
 4. 
 5. 
 
-### 2. Salesforce Developer 
+### Salesforce Developer 
 1. 
 2. 
 3. 
