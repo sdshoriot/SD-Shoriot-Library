@@ -47,15 +47,32 @@
 
 
 
-# 3. Django REST Framework (DRF) (upcoming)
-
+# 3. REST API With Django REST Framework (DRF) (upcoming)
 
 
 # 4. JavaScript (upcoming)
 
 
-
 # 5. Vue.js (upcoming)
+
+
+# 7. Salesforce
+
+
+## 1. Salesforce Administrator
+1. 
+2. 
+3. 
+4. 
+5. 
+
+## 2. Salesforce Developer 
+1. 
+2. 
+3. 
+4. 
+5.
+
 
 
 # Don't forget to see [varieties item in one](https://github.com/sdshoriot/SD_Shoriot_Library/tree/master/Varieties%20item%20in%20one)
