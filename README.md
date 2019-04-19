@@ -31,11 +31,9 @@
 15. [Varieties item in one]()
 
 
-### 16. Salesforce
+16. [Salesforce Administrator]()
 
-* [Salesforce Administrator]()
-
-* [Salesforec Developer]()
+17. [Salesforec Developer]()
 
 		
 
