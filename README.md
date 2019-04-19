@@ -47,13 +47,13 @@
 
 
 
-# 3. REST API With Django REST Framework (DRF) (upcoming)
+# 3. REST API With Django REST Framework (DRF)
 
 
-# 4. JavaScript (upcoming)
+# 4. JavaScript
 
 
-# 5. Vue.js (upcoming)
+# 5. Vue.js
 
 
 # 7. Salesforce
