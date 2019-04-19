@@ -28,14 +28,14 @@
 	
 14. [Problem-solving]()
 
-16. [Varieties item in one]()
+15. [Varieties item in one]()
 
 
-# Salesforce
+16. Salesforce
 
-17. [Salesforce Administrator]()
+* [Salesforce Administrator]()
 
-18. [Salesforec Developer]()
+* [Salesforec Developer]()
 
 		
 
