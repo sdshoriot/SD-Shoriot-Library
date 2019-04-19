@@ -1,7 +1,9 @@
 # Table of contents
 
 [1. Python]()
-	[2. Django]()
+
+[2. Django]()
+
 	[3. REST API With Django REST Framework (DRF)]()
 	[4. JavaScript]()
 	[5. Vue.js]()
@@ -17,12 +19,14 @@
 	[14. Problem-solving]()
 
 
-	[15. Salesforce]()
-		[* Salesforce Administrator]()
-		[* Salesforec Developer]()
+[15. Salesforce]()
+
+	[* Salesforce Administrator]()
+
+	[* Salesforec Developer]()
 
 
-	16. Varieties item in one		
+[16. Varieties item in one]()		
 
 # 1. Python 
 
