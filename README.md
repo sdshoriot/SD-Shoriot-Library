@@ -1,11 +1,28 @@
 # Table of contents
+
 	1. Python
 	2. Django
 	3. REST API With Django REST Framework (DRF)
-	4. Salesforce
+	4. JavaScript
+	5. Vue.js
+	6. CSS & CSS3
+	7. HTML & HTML5
+
+	8. MySQL
+	9. PostgreSQL
+	10. Database Management System (DBMS)
+	11. Git 
+	12. Linux (Ubuntu)
+	13. Data Structures and Algorithms (DSA)
+	14. Problem-solving
+
+
+	15. Salesforce
 		* Salesforce Administrator
 		* Salesforec Developer
-	5. Git	
+
+
+	16. Varieties item in one		
 
 # 1. Python 
 
