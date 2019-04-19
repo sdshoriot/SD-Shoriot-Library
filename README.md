@@ -28,14 +28,11 @@
 	
 14. [Problem-solving]()
 
-15. [Varieties item in one]()
+15. [Salesforce Administrator]()
 
+16. [Salesforec Developer]()
 
-16. [Salesforce Administrator]()
-
-17. [Salesforec Developer]()
-
-		
+17. [Varieties item in one]()		
 
 # 1. Python 
 
