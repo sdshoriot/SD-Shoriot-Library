@@ -1,15 +1,21 @@
 # Table of contents
 
-[1. Python]()
-[2. Django]()
+1. [Python]()
 
-	[3. REST API With Django REST Framework (DRF)]()
-	[4. JavaScript]()
-	[5. Vue.js]()
-	[6. CSS & CSS3]
-	[7. HTML & HTML5]
+2. [Django]()
 
-[8. MySQL]()
+3. [REST API With Django REST Framework (DRF)]()
+
+4. [JavaScript]()
+	
+5. [Vue.js]()
+
+6. [CSS & CSS3]
+	
+7. [HTML & HTML5]
+
+8. [MySQL]()
+
 	[9. PostgreSQL]()
 	[10. Database Management System (DBMS)]()
 	[11. Git]()
