@@ -10,29 +10,35 @@
 	
 5. [Vue.js]()
 
-6. [CSS & CSS3]()
+6. [CSS]()
+
+7. [CSS3]()
 	
-7. [HTML & HTML5]()
+8. [HTML]()
 
-8. [MySQL]()
+9. HTML5
 
-9. [PostgreSQL]()
+10. [Bootstrap]()
 
-10. [Database Management System (DBMS)]()
+11. [MySQL]()
 
-11. [Git]()
+12. [PostgreSQL]()
+
+13. [Database Management System (DBMS)]()
+
+14. [Git]()
 	
-12. [Linux (Ubuntu)]()
+15. [Linux (Ubuntu)]()
 
-13. [Data Structures and Algorithms (DSA)]()
+16. [Data Structures and Algorithms (DSA)]()
 	
-14. [Problem-solving]()
+17. [Problem-solving]()
 
-15. [Salesforce Administrator]()
+18. [Salesforce Administrator]()
 
-16. [Salesforec Developer]()
+19. [Salesforec Developer]()
 
-17. [Varieties item in one]()	
+20. [Varieties item in one]()	
 
 ---	
 
