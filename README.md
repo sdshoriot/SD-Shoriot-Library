@@ -1,7 +1,6 @@
 # Table of contents
 
 [1. Python]()
-
 [2. Django]()
 
 	[3. REST API With Django REST Framework (DRF)]()
