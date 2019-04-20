@@ -39,7 +39,7 @@
 	
 19. [Problem-solving]()
 
-20. [Varieties item in one]()	
+20. [Varieties item in one](https://github.com/sdshoriot/SD_Shoriot_Library/tree/master/Varieties%20item%20in%20one)	
 
 ---	
 
@@ -139,10 +139,10 @@
 # 19. Problem-solving
 
 
-# 20. Don't forget to see [varieties item in one](https://github.com/sdshoriot/SD_Shoriot_Library/tree/master/Varieties%20item%20in%20one)
+# 20. Varieties item in one
 
 
-## [SD-Shoriot-Library](https://github.com/sdshoriot/SD-Shoriot-Library) created by [me](https://www.facebook.com/shoriot) on  `Aug 15, 2018`
+## This [SD-Shoriot-Library](https://github.com/sdshoriot/SD-Shoriot-Library) is created by [me](https://www.facebook.com/shoriot) on  `Aug 15, 2018`
 
 
 > Please inbox **[me](https://www.facebook.com/shoriot)** if you've any questions. 
