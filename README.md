@@ -1,48 +1,53 @@
 # Table of contents (20)
 
-1. [Python]()
 
-2. [Django]()
+1. [Salesforce Administrator]()
 
-3. [REST API With Django REST Framework (DRF)]()
+2. [Salesforec Developer]()
 
-4. [JavaScript]()
+3. [Python]()
+
+4. [Django]()
+
+5. [REST API With Django REST Framework (DRF)]()
+
+6. [JavaScript]()
 	
-5. [Vue.js]()
+7. [Vue.js]()
 
-6. [CSS]()
+8. [CSS]()
 
-7. [CSS3]()
+9. [CSS3]()
 	
-8. [HTML]()
+10. [HTML]()
 
-9. [HTML5]()
+11. [HTML5]()
 
-10. [Bootstrap]()
+12. [Bootstrap]()
 
-11. [MySQL]()
+13. [MySQL]()
 
-12. [PostgreSQL]()
+14. [PostgreSQL]()
 
-13. [Database Management System (DBMS)]()
+15. [Database Management System (DBMS)]()
 
-14. [Git]()
+16. [Git]()
 	
-15. [Linux (Ubuntu)]()
+17. [Linux (Ubuntu)]()
 
-16. [Data Structures and Algorithms (DSA)]()
+18. [Data Structures and Algorithms (DSA)]()
 	
-17. [Problem-solving]()
-
-18. [Salesforce Administrator]()
-
-19. [Salesforec Developer]()
+19. [Problem-solving]()
 
 20. [Varieties item in one]()	
 
 ---	
 
-# 1. Python 
+# 1. Salesforce Administrator
+
+# 2. Salesforec Developer
+
+# 3. Python 
 
 1. [Python's Variable & Data Types.](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/1.%20Python/1.%20Variables%20%26%20Data%20Types.md)
 
@@ -61,8 +66,7 @@
 
 
 
-
-# 2. Django
+# 4. Django
 
 
 1. [How to add static files (img, js, css) in Django?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/2.%20Django/1.%20How%20to%20add%20static%20files%20(img%2C%20Js%2C%20CSS)%20in%20Django%3F.md)
@@ -90,36 +94,52 @@
 12. [How to Deploy a Django Application to Digital Ocean?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/2.%20Django/12.%20How%20to%20Deploy%20a%20Django%20Application%20to%20Digital%20Ocean.md)
 
 
-
-# 3. REST API With Django REST Framework (DRF)
-
-
-# 4. JavaScript
+# 5. REST API With Django REST Framework (DRF)
 
 
-# 5. Vue.js
+# 6. JavaScript
+	
+
+# 7. Vue.js
 
 
-# 7. Salesforce
+# 8. CSS
 
 
-### Salesforce Administrator
-1. 
-2. 
-3. 
-4. 
-5. 
+# 9. CSS3
 
-### Salesforce Developer 
-1. 
-2. 
-3. 
-4. 
-5.
+	
+# 10. HTML
 
 
+# 11. HTML5
 
-# Don't forget to see [varieties item in one](https://github.com/sdshoriot/SD_Shoriot_Library/tree/master/Varieties%20item%20in%20one)
+
+# 12. Bootstrap
+
+
+# 13. MySQL
+
+
+# 14. PostgreSQL
+
+
+# 15. Database Management System (DBMS)
+
+
+# 16. Git
+
+	
+# 17. Linux (Ubuntu)
+
+
+# 18. Data Structures and Algorithms (DSA)
+
+	
+# 19. Problem-solving
+
+
+# 20. Don't forget to see [varieties item in one](https://github.com/sdshoriot/SD_Shoriot_Library/tree/master/Varieties%20item%20in%20one)
 
 
 ## [SD-Shoriot-Library](https://github.com/sdshoriot/SD-Shoriot-Library) created by [me](https://www.facebook.com/shoriot) on  `Aug 15, 2018`
