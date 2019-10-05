@@ -1,4 +1,4 @@
-# Skills (11)
+# Skills (17)
 
 **1. Languages:** [Python](https://github.com/sdshoriot/SD-Shoriot-Library/tree/master/01.%20Languages/Python), JavaScript
 
