@@ -1,6 +1,6 @@
-# Skills------------------------------------------------------(11)
+# Skills (11)
 
-**1. Languages:** Python, JavaScript
+**1. Languages:** [Python](https://github.com/sdshoriot/SD-Shoriot-Library/tree/master/Python), JavaScript
 
 **2. Client-side:** HTML, CSS
 
