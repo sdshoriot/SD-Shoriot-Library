@@ -4,8 +4,7 @@
 
 **2. Client-side:** HTML, CSS
 
-**3. Frameworks:** [Django](https://github.com/sdshoriot/SD-Shoriot-Library/tree/master/03.%20Frameworks/Django), Django REST Framework, React, Vue.js, Bootstrap, 
-
+**3. Frameworks:** [Django](https://github.com/sdshoriot/SD-Shoriot-Library/tree/master/03.%20Frameworks/Django), Django REST Framework, React, Vue.js, Bootstrap
 
 **4. Libraries:**   
 
