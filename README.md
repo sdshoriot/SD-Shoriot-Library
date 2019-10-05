@@ -10,7 +10,7 @@
 
 **5. Databases:** MySQL, PostgreSQL, SQLite
 
-**6. Version control:** [Git](https://github.com/sdshoriot/SD-Shoriot-Library/tree/master/06.%20Version%20control/Git).
+**6. Version control:** [Git](https://github.com/sdshoriot/SD-Shoriot-Library/tree/master/06.%20Version%20control/Git)
 
 **7. OS:** Linux (Ubuntu) 
 
