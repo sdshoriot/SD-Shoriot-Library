@@ -8,11 +8,12 @@
 
 **4. Libraries:**   
 
-**5. Databases:** DBMS, MySQL, PostgreSQL, SQLite.
+**5. Databases:** MySQL, PostgreSQL, SQLite.
 
 **6. Version control:** [Git](https://github.com/sdshoriot/SD-Shoriot-Library/tree/master/06.%20Version%20control/Git).
 
 **7. OS:** Linux (Ubuntu) 
 
+**Others:** [DBMS](), DSA, Problem solving.
 
 > Please inbox **[me](https://www.facebook.com/shoriot)** if you've any questions. 
