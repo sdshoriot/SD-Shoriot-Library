@@ -126,7 +126,7 @@
 # 20. Varieties item in one
 
 
-## This [repository](https://github.com/sdshoriot/SD-Shoriot-Library) is created by [me](https://www.facebook.com/shoriot) on `Aug 15, 2018`
+## This [repository](https://github.com/sdshoriot/SD-Shoriot-Library) is created by [me](https://www.facebook.com/shoriot) on `15 August 2018`
 
 
 > Please inbox **[me](https://www.facebook.com/shoriot)** if you've any questions. 
