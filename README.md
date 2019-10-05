@@ -4,13 +4,13 @@
 
 **2. Client-side:** HTML, CSS
 
-**3. Frameworks:** Django, Django REST Framework.
+**3. Frameworks:** [Django](https://github.com/sdshoriot/SD-Shoriot-Library/tree/master/03.%20Frameworks/Django), Django REST Framework.
 
 **4. Libraries:**   
 
 **5. Databases:** MySQL, PostgreSQL, SQLite.
 
-**6. Version control:** Git.
+**6. Version control:** [Git](https://github.com/sdshoriot/SD-Shoriot-Library/tree/master/06.%20Version%20control/Git).
 
 **7. OS:** Linux (Ubuntu) 
 
