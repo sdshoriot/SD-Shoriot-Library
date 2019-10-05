@@ -14,6 +14,6 @@
 
 **7. OS:** Linux (Ubuntu) 
 
-**Others:** [DBMS](), DSA, Problem solving.
+...**Others:** [DBMS](), DSA, Problem solving.
 
 > Please inbox **[me](https://www.facebook.com/shoriot)** if you've any questions. 
