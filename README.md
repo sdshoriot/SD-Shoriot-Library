@@ -1,18 +1,18 @@
 # Skills (11)
 
-1. Languages: Python, JavaScript
+1. **Languages:** Python, JavaScript
 
-2. Client-side: HTML, CSS
+2. **Client-side:** HTML, CSS
 
-3. Frameworks: Django, Django REST Framework.
+3. **Frameworks:** Django, Django REST Framework.
 
-4. Libraries:   
+4. **Libraries:**   
 
-5. Databases: MySQL, PostgreSQL, SQLite.
+5. **Databases:** MySQL, PostgreSQL, SQLite.
 
-6. Version control: Git.
+6. **Version control:** Git.
 
-7. OS: Linux (Ubuntu) 
+7. **OS:** Linux (Ubuntu) 
 
 
 > Please inbox **[me](https://www.facebook.com/shoriot)** if you've any questions. 
