@@ -1,39 +1,18 @@
-# Table of contents (20)
+# Skills (11)
 
+1. Languages: Python, JavaScript
 
-1. [Python]()
+2. Client-side: HTML, CSS
 
-2. [Django]()
+3. Frameworks: Django, Django REST Framework.
 
-5. [REST API With Django REST Framework (DRF)]()
+4. Libraries:   
 
-6. [JavaScript]()
-	
-7. [Vue.js]()
+5. Databases: MySQL, PostgreSQL, SQLite.
 
+6. Version control: Git.
 
-9. [CSS3]()
-	
-
-11. [HTML5]()
-
-12. [Bootstrap]()
-
-13. [MySQL]()
-
-14. [PostgreSQL]()
-
-15. [Database Management System (DBMS)]()
-
-16. [Git]()
-	
-17. [Linux (Ubuntu)]()
-
-18. [Data Structures and Algorithms (DSA)]()
-	
-19. [Problem-solving]()
-
-20. [Varieties item in one](https://github.com/sdshoriot/SD_Shoriot_Library/tree/master/Varieties%20item%20in%20one)	
+7. OS: Linux (Ubuntu) 
 
 ---	
 
@@ -83,47 +62,9 @@
 
 12. [How to Deploy a Django Application to Digital Ocean?](https://github.com/sdshoriot/SD_Shoriot_Library/blob/master/2.%20Django/12.%20How%20to%20Deploy%20a%20Django%20Application%20to%20Digital%20Ocean.md)
 
+---
 
-# 5. REST API With Django REST Framework (DRF)
-
-
-# 6. JavaScript
-	
-
-# 7. Vue.js
-
-
-# 9. CSS3
-
-
-# 11. HTML5
-
-
-# 12. Bootstrap
-
-
-# 13. MySQL
-
-
-# 14. PostgreSQL
-
-
-# 15. Database Management System (DBMS)
-
-
-# 16. Git
-
-	
-# 17. Linux (Ubuntu)
-
-
-# 18. Data Structures and Algorithms (DSA)
-
-	
-# 19. Problem-solving
-
-
-# 20. Varieties item in one
+# [Varieties item in one](https://github.com/sdshoriot/SD_Shoriot_Library/tree/master/Varieties%20item%20in%20one)
 
 
 ## This [repository](https://github.com/sdshoriot/SD-Shoriot-Library) is created by [me](https://www.facebook.com/shoriot) on `15 August 2018`
