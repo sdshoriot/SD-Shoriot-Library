@@ -1,13 +1,9 @@
 # Table of contents (20)
 
 
-1. [Salesforce Administrator]()
+1. [Python]()
 
-2. [Salesforec Developer]()
-
-3. [Python]()
-
-4. [Django]()
+2. [Django]()
 
 5. [REST API With Django REST Framework (DRF)]()
 
@@ -15,11 +11,9 @@
 	
 7. [Vue.js]()
 
-8. [CSS]()
 
 9. [CSS3]()
 	
-10. [HTML]()
 
 11. [HTML5]()
 
@@ -42,10 +36,6 @@
 20. [Varieties item in one](https://github.com/sdshoriot/SD_Shoriot_Library/tree/master/Varieties%20item%20in%20one)	
 
 ---	
-
-# 1. Salesforce Administrator
-
-# 2. Salesforec Developer
 
 # 3. Python 
 
@@ -103,13 +93,7 @@
 # 7. Vue.js
 
 
-# 8. CSS
-
-
 # 9. CSS3
-
-	
-# 10. HTML
 
 
 # 11. HTML5
