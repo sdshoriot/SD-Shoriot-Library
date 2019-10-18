@@ -15,4 +15,4 @@
 **7. OS:** Linux (Ubuntu) 
 
 
-> **Others:** [DBMS](https://github.com/sdshoriot/SD-Shoriot-Library/tree/master/Others/DBMS), DSA, Problem solving
+> **Others:** DBMS, DSA, Problem solving
