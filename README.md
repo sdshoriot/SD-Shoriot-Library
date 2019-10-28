@@ -15,4 +15,4 @@
 **7. OS:** Linux (Ubuntu) 
 
 
-> **Others:** [DBMS](https://github.com/sdshoriot/SD-Shoriot-Library/tree/master/Others/DBMS), DSA, Problem solving, Varieties items.
+> **Others:** [DBMS](https://github.com/sdshoriot/SD-Shoriot-Library/tree/master/Others/DBMS), DSA, Problem solving, [Varieties items](https://github.com/sdshoriot/SD-Shoriot-Library/tree/master/Others/Varieties%20items).
