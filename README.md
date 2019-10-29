@@ -2,8 +2,8 @@
 
 <p align="center">
   <b>You can connect with SD Shoriot on</b><br>
-  <a href="#">Facebook</a> 
-  <a href="#">Linkedin</a> |
+  <a href="#">Facebook</a>, 
+  <a href="#">Linkedin</a>,
   <a href="#">Link 3</a>
 </p>
 
