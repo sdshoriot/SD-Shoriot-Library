@@ -16,8 +16,6 @@
 
 > **Others:** Database Management System, Data Structures and Algorithms, Problem solving, [Varieties items](https://github.com/sdshoriot/SD-Shoriot-Library/tree/master/Others/Varieties%20items)
 
-|| <!-- empty table header -->
-
-|:--:| <!-- table header/body separator with center formatting -->
-
-| I'm centered! | <!-- cell gets column's alignment -->
+<p align="justify">
+  Lorem ipsum
+</p>
