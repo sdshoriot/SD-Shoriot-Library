@@ -1,14 +1,11 @@
 <h1><p align="center">  SD Shoriot Library</p></h1>
 
 <p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
+  <b>Some important links of SD Shoriot</b><br>
+  <a href="#">Facebook</a> 
+  <a href="#">Linkedin</a> |
   <a href="#">Link 3</a>
-  <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
 </p>
-
 
 
 **1. Languages:** [Python](https://github.com/sdshoriot/SD-Shoriot-Library/tree/master/01.%20Languages/Python), JavaScript
