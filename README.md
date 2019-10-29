@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b><h2>Some important links of SD Shoriot</h2></b><br>
+  <h2>Some important links of SD Shoriot</h2><br>
   <a href="#">Facebook</a> 
   <a href="#">Linkedin</a> |
   <a href="#">Link 3</a>
