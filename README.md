@@ -1,4 +1,4 @@
-<h1><p align="center">  SD Shoriot Library</p></h1>
+<h1><p align="center">  SD Shoriot Library</h1></p>
 
 <p align="center">
   <b>Some important links of SD Shoriot</b><br>
