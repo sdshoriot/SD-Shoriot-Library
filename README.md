@@ -1,11 +1,12 @@
-<h1><p align="center">SD Shoriot Library</h1></p>
-
 <p align="center">
-  <b>You can connect with SD Shoriot on</b><br>
+  <b>You can connect with SD Shoriot on:</b><br>
   <a href="#">Facebook</a>, 
   <a href="#">Linkedin</a>,
   <a href="#">Link 3</a>
 </p>
+
+
+<h1><p align="center">SD Shoriot Library</h1></p>
 
 
 **1. Languages:** [Python](https://github.com/sdshoriot/SD-Shoriot-Library/tree/master/01.%20Languages/Python), JavaScript
