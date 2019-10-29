@@ -1,10 +1,7 @@
-<h1>
-<p align="center">SD Shoriot Library</h1><br>
-	<a href="">F</a>
-</p>
+<h1><p align="center">SD Shoriot Library</h1></p>
 
 <p align="center">
-# Some important links of SD Shoriot<br>
+  <b>You can connect with SD Shoriot on</b><br>
   <a href="#">Facebook</a> 
   <a href="#">Linkedin</a> |
   <a href="#">Link 3</a>
