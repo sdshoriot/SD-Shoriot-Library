@@ -1,5 +1,6 @@
 # SD Shoriot Library
 
+<h1><p align="center">  this text will be centered via `p` attribute</p></h1>
 
 <p align="center">
   <b>Some Links:</b><br>
