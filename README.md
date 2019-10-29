@@ -2,7 +2,7 @@
 
 
 <p align="center">
-	<h1> SD Shoriot Library</h1>
+	<b> SD Shoriot Library</b>
 </p>
 
 
