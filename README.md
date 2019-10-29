@@ -1,9 +1,9 @@
 # SD Shoriot Library
 
 
-<p align="center">
-	<b> SD Shoriot Library</b>
-</p>
+
+<center> <b> SD Shoriot Library</b></center>
+
 
 
 **1. Languages:** [Python](https://github.com/sdshoriot/SD-Shoriot-Library/tree/master/01.%20Languages/Python), JavaScript
