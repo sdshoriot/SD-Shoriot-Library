@@ -2,12 +2,8 @@
 
 
 <p align="center">
-	<b> SD Shoriot Library</b><br>
-  <a href="#">Link 1</a> |
-
-  <br><br>
+	<h1> SD Shoriot Library</h1>
 </p>
-
 
 
 **1. Languages:** [Python](https://github.com/sdshoriot/SD-Shoriot-Library/tree/master/01.%20Languages/Python), JavaScript
