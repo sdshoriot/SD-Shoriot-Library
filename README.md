@@ -15,4 +15,4 @@
 **7. OS:** Linux (Ubuntu) 
 
 
-> **Others:** Data Structures and Algorithms, Database Management System, Problem solving, [Varieties items](https://github.com/sdshoriot/SD-Shoriot-Library/tree/master/Others/Varieties%20items)
+> **Others:** Database Management System, Data Structures and Algorithms, Problem solving, [Varieties items](https://github.com/sdshoriot/SD-Shoriot-Library/tree/master/Others/Varieties%20items)
