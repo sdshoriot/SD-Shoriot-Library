@@ -1,4 +1,4 @@
-<h1><p align="center">SD Shoriot Library</p></h1>
+<h1><p align="center"; style="color: red">SD Shoriot Library</p></h1>
 
 **1. Languages:** [Python](https://github.com/sdshoriot/SD-Shoriot-Library/tree/master/01.%20Languages/Python), JavaScript
 
