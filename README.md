@@ -14,4 +14,4 @@
 
 **7. OS:** 
 
-> **Others: [Database Management System](https://github.com/sdshoriot/SD-Shoriot-Library/tree/master/Others/Database%20Management%20System), Data Structures and Algorithms, Problem solving, [Varieties items](https://github.com/sdshoriot/SD-Shoriot-Library/tree/master/Others/Varieties%20items)**
+> **Others: [Database Management System](https://github.com/sdshoriot/SD-Shoriot-Library/tree/master/Others/Database%20Management%20System), [Varieties items](https://github.com/sdshoriot/SD-Shoriot-Library/tree/master/Others/Varieties%20items)**
