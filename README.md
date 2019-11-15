@@ -4,14 +4,14 @@
 
 **2. Client-side:**
 
-**3. Frameworks: [Django](https://github.com/sdshoriot/SD-Shoriot-Library/tree/master/03.%20Frameworks/Django)** 
+**3. Frameworks:** 
 
 **4. Libraries:**   
 
 **5. Databases:**
 
-**6. Version control: [Git](https://github.com/sdshoriot/SD-Shoriot-Library/tree/master/06.%20Version%20control/Git)**
+**6. Version control:**
 
 **7. OS:** 
 
-> **Others: [Database Management System](https://github.com/sdshoriot/SD-Shoriot-Library/tree/master/Others/Database%20Management%20System), [Varieties items](https://github.com/sdshoriot/SD-Shoriot-Library/tree/master/Others/Varieties%20items)**
+> **Others: [Varieties items](https://github.com/sdshoriot/SD-Shoriot-Library/tree/master/Others/Varieties%20items)**
